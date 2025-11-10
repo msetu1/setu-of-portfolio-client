@@ -103,7 +103,7 @@ const Education = ({ educations }: TEducationsProps) => {
                   {edu.description}
                 </p>
                 <div className="pt-4">
-                  <a href="/resume/resume_of_setu.pdf" download>
+                  <a href="/resume/st-setu-resume.pdf" download>
                             <button className="flex items-center gap-2 px-5 py-2.5 rounded border-2 border-[#6C63FF] text-[#6C63FF] font-semibold bg-transparent hover:bg-[#6C63FF] hover:text-white transition-all duration-300 ease-in-out transform hover:scale-105">
                               <MdOutlineFileDownload size={20} /> Resume
                             </button>
